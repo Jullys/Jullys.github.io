@@ -57,11 +57,11 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-disqus_username: jullys3161
+# disqus_username: jullys3161
 
 # Gitalk
 gitalk:
-  enable: false    #是否开启Gitalk评论
+  enable: true    #是否开启Gitalk评论
   clientID: 882c96cb2b2f00fb7f23                            #生成的clientID
   clientSecret: 49514f8825f0f519190133d7f29056e354bbf2f0    #生成的clientSecret
   repo: Jullys.github.io    #仓库名称
