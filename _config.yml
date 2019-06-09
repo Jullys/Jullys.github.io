@@ -1,7 +1,7 @@
 # Site settings
-title: BY Blog
-SEOTitle: Jullys的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
+title: Jullys's Blog
+SEOTitle: Jullys的博客 | Jullys's Blog
+header-img: img/post-bg-desk.jpeg
 email: jintyi@163.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, Jullts的博客"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/Jullys/Jullys.github.io.git" # you code reposit
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-about-jullys.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
